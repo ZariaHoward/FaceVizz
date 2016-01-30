@@ -1,0 +1,4 @@
+ofxCameraAnaglyph
+ofxCv
+ofxFaceTracker
+ofxOpenCv
